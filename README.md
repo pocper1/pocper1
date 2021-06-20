@@ -14,6 +14,7 @@ Header
 *This text will be italic*
 **This text will be bold**
 
+![This is a alt text.](/image/sample.png "This is a sample image.")
 
 * Item 1
 * Item 2
@@ -25,7 +26,11 @@ Header
 3. Item 3
  * Item 3a
  * Item 3b
-  
+ * 
+ ```java
+    這邊是程式碼
+ ```
+ 
 http://github.com 
 I think you should use an `<addr>` element here instead.
 > AS I said
