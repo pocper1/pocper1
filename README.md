@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jimmy Huang</h1>
 <h3 align="center">大學學生，目前正在寫網站，努力學習vue和php</h3>
 
-- 🔭 I’m currently working on **CA**
+- 🔭 I’m currently working on **system developing in computer center**
 
-- 🌱 I’m currently learning **laravel, php, vue**
+- 🌱 I’m currently learning **laravel, php, vue, js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
