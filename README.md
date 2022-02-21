@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **laravel, php, vue, js**
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pocper1&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ![pocper1's GitHub stats](https://github-readme-stats.vercel.app/api?username=pocper1)
 
