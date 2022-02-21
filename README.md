@@ -2,7 +2,12 @@
 
 - 🌱 I’m currently learning **laravel, php, vue, js**
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pocper1)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+![pocper1's GitHub stats](https://github-readme-stats.vercel.app/api?username=pocper1)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pocper1&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
