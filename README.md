@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on **system developing in computer center**
 
 - 🌱 I’m currently learning **laravel, php, vue, js**
+- [Jimmy Huang's Profile](https://pocper1.github.io/self-info/)
 ---
 
 # Programming Language
