@@ -10,17 +10,18 @@
 
 ---
 
-# Programming Language
+### 相關程式語言
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=pocper1" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pocper1&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
 
+### 一周撰寫程式時間
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pocper1&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-# Connect with me:
+### 聯繫我
 <p align="left">
 <a href="https://codepen.io/pocper1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pocper1" height="30" width="40" /></a>
 <a href="https://instagram.com/_jimmy_huang_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jimmy_huang_" height="30" width="40" /></a>
@@ -28,7 +29,7 @@
 </p>
 
 
-# Languages and Tools:
+### 程式語言與工具
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
