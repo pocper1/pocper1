@@ -1,5 +1,6 @@
 # 黃鉦鈞-個人介紹
 - [黃鉦鈞的個人網站 - Jimmy Huang's Profile](https://pocper1.github.io/self-info/)
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pocper1&label=Profile%20views&color=0e75b6&style=flat" alt="pocper1" /> </p>
 
 ## 近期事件
 - 配合「臺灣資安卓越深耕─資安卓越中心計畫」參與EC-Council CEH駭客技術專家認證課程
@@ -27,7 +28,8 @@
 <a href="https://instagram.com/_jimmy_huang_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jimmy_huang_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pocper1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pocper1" height="30" width="40" /></a>
 </p>
-
+<a href="https://hackmd.io/@pocper1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pocper1" height="30" width="40" /></a>
+</p>
 
 ### 程式語言與工具
 <p align="left">
