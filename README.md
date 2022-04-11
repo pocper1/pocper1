@@ -1,5 +1,5 @@
 # 黃鉦鈞-個人介紹
-- [黃鉦鈞地個人網站 - Jimmy Huang's Profile](https://pocper1.github.io/self-info/)
+- [黃鉦鈞的個人網站 - Jimmy Huang's Profile](https://pocper1.github.io/self-info/)
 
 ## 近期事件
 - 配合「臺灣資安卓越深耕─資安卓越中心計畫」參與EC-Council CEH駭客技術專家認證課程
