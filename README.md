@@ -1,5 +1,4 @@
 # 黃鉦鈞-個人介紹
-- [黃鉦鈞的個人網站 - Jimmy Huang's Profile](https://pocper1.github.io/self-info/)
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=pocper1&label=Profile%20views&color=0e75b6&style=flat" alt="pocper1" /> </p>
 
 ## 近期事件
