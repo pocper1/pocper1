@@ -1,8 +1,4 @@
-# 黃鉦鈞-個人介紹
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pocper1&label=Profile%20views&color=0e75b6&style=flat" alt="pocper1" /> </p>
-
-## 近期事件
-- 配合「臺灣資安卓越深耕─資安卓越中心計畫」參與EC-Council CEH駭客技術專家認證課程
+# Jimmy Huang
 
 ## 技術 & 經歷
 - 🔭 I’m currently working on **system developing in computer center**
@@ -16,18 +12,12 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pocper1&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
 
-### 一周撰寫程式時間
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pocper1&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ### 聯繫我
 <p align="left">
 <a href="https://codepen.io/pocper1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pocper1" height="30" width="40" /></a>
-<a href="https://instagram.com/_jimmy_huang_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jimmy_huang_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pocper1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pocper1" height="30" width="40" /></a>
 </p>
-<a href="https://hackmd.io/@pocper1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pocper1" height="30" width="40" /></a>
 </p>
 
 ### 程式語言與工具
