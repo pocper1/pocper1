@@ -118,4 +118,4 @@ I'm a passionate software developer currently working in system development at a
 
 ---
 
-_Last updated: 2025/07/29
+Last updated: 2025/07/29
