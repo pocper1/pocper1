@@ -1,65 +1,121 @@
-# Jimmy Huang
+# Jimmy Huang 👨‍💻
 
-## 技術 & 經歷
-- 🔭 I’m currently working on **system developing in computer center**
-- 🌱 I’m currently learning **laravel, php, vue, js**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/pocper1)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pocper1)
+
+## 🚀 About Me
+
+I'm a passionate software developer currently working in system development at a computer center. I specialize in web development technologies and enjoy solving complex problems through clean, efficient code.
+
+### 🔭 Current Focus
+
+-   **System Development** at Computer Center
+-   **Web Development** with Laravel, PHP, Vue.js, and JavaScript
+-   **Problem Solving** through algorithmic challenges and system optimization
+
+### 🌱 Currently Learning
+
+-   **Laravel Framework** - Advanced features and best practices
+-   **Vue.js** - Modern frontend development
+-   **JavaScript** - ES6+ features and modern patterns
+-   **System Architecture** - Scalable and maintainable solutions
 
 ---
 
-### 相關程式語言
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=pocper1" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pocper1&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pocper1&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pocper1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pocper1&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-### 聯繫我
-<p align="left">
-<a href="https://codepen.io/pocper1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pocper1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pocper1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pocper1" height="30" width="40" /></a>
-</p>
-</p>
+---
 
-### 程式語言與工具
-<p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://laravel.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-            alt="laravel" width="40" height="40" /> </a>
-    <a href="https://www.mathworks.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"
-            height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" />
-    </a> <a href="https://www.nginx.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
-            width="40" height="40" />
-    </a>
-    <a href="https://www.php.net" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-            width="40" height="40" /> </a>
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-            alt="vuejs" width="40" height="40" /> </a>
-</p>
+## 🛠️ Technologies & Tools
 
+### Programming Languages
+
+<div align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</div>
+
+### Frameworks & Libraries
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+</div>
+
+### Databases & Tools
+
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+</div>
+
+### Development Tools
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</div>
+
+---
+
+## 🎯 Skills & Expertise
+
+### Backend Development
+
+-   **PHP/Laravel** - RESTful APIs, MVC architecture, Eloquent ORM
+-   **Database Design** - MySQL optimization, query performance
+-   **System Architecture** - Scalable and maintainable solutions
+
+### Frontend Development
+
+-   **Vue.js** - Component-based architecture, reactive data binding
+-   **JavaScript** - Modern ES6+ features, async programming
+-   **Responsive Design** - Mobile-first approach
+
+### DevOps & Tools
+
+-   **Version Control** - Git workflow, collaborative development
+-   **Web Servers** - Nginx configuration and optimization
+-   **Development Tools** - VS Code, Postman, debugging tools
+
+---
+
+## 🏆 Achievements
+
+-   **LeetCode Profile** - Active problem solver with consistent practice
+-   **CodePen Projects** - Creative frontend experiments and prototypes
+-   **System Development** - Contributing to critical infrastructure projects
+
+---
+
+## 📫 Connect With Me
+
+<div align="left">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/pocper1">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codepen.io/pocper1">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+</div>
+
+---
+
+_Last updated: [Current Date]_
