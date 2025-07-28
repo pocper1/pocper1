@@ -110,9 +110,6 @@ I'm a passionate software developer currently working in system development at a
   <a href="https://leetcode.com/pocper1">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://codepen.io/pocper1">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
-  </a>
 </div>
 
 ---
