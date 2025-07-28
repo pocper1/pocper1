@@ -1,8 +1,7 @@
 # Jimmy Huang 👨‍💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimmy-cj-huang)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/pocper1)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pocper1)
 
 ## 🚀 About Me
 
@@ -105,7 +104,7 @@ I'm a passionate software developer currently working in system development at a
 ## 📫 Connect With Me
 
 <div align="left">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/jimmy-cj-huang">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/pocper1">
